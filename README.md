@@ -1,2 +1,2 @@
 # Labb1
-# By: Mohamed Irheem, Ihisan Bashe
+# By: Mohammed Irheem, Ihisan Bashe
