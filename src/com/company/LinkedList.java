@@ -42,7 +42,8 @@ public class LinkedList {
 
     }
     public int contains(int e ){
-        return head.value;
+
+        return e;
     }
     public int get(int index ){
         int i = 0;
